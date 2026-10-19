@@ -30,3 +30,7 @@ Some projects use datasets provided through the Udacity workspace, and those dat
 ## Tech stack
 
 Python · pandas · NumPy · SciPy · scikit-learn · cvxpy · PyTorch · NLTK · Jupyter
+
+## License
+
+My own code and solutions in this repo are released under the [MIT License](./LICENSE). Starter code, helper modules, unit tests and project materials provided by Udacity remain the property of Udacity and are not covered by this license.
